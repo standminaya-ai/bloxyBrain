@@ -1,0 +1,7 @@
+{
+  "hacer": "accion",
+  "crear": "accion",
+  "abrir": "accion",
+  "boton": "objeto",
+  "script": "codigo"
+}
