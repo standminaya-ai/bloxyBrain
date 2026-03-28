@@ -1,0 +1,11 @@
+{
+  "frame": {
+    "definicion": "contenedor UI"
+  },
+  "textlabel": {
+    "definicion": "muestra texto"
+  },
+  "textbutton": {
+    "definicion": "boton"
+  }
+}
